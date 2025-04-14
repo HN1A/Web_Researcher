@@ -1,6 +1,6 @@
 # Golden Web Vulnerability Scanner - Ultimate Edition V1.0
 
-![Golden Scanner Banner](https://i.imgur.com/example.png)
+![Golden Scanner Banner](https://imgur.com/a/HujxF1k)
 
 A powerful web vulnerability scanner with stealth capabilities for comprehensive security assessments.
 
