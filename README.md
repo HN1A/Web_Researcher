@@ -57,5 +57,16 @@ Advanced options:
 ```bash
 python Golden_Scanner.py -u https://example.com --stealth -w custom_wordlist.txt -o scan_results.json
 ```
+## Examples
 
+
+2. Full stealth scan with custom wordlist:
+```bash
+python Golden_Scanner.py -u https://example.com --stealth -w wordlist.txt
+```
+
+3. Fast scan (no delays):
+```bash
+python Golden_Scanner.py -u https://example.com --fast
+```
 
