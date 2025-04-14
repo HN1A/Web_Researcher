@@ -37,3 +37,4 @@ A powerful web vulnerability scanner with stealth capabilities for comprehensive
 ```bash
 git clone https://github.com/yourusername/Web_Researcher.git
 cd Web_Researcher
+python Golden_Scanner.py
