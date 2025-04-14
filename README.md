@@ -37,4 +37,25 @@ A powerful web vulnerability scanner with stealth capabilities for comprehensive
 ```bash
 git clone https://github.com/yourusername/Web_Researcher.git
 cd Web_Researcher
+```
+2. Install requirements:
+```bash
+pip install -r requirements.txt
+```
+3. Running the tool
+```
 python Golden_Scanner.py
+```
+## Usage
+
+Basic command:
+```bash
+python Golden_Scanner.py -u https://example.com
+```
+
+Advanced options:
+```bash
+python Golden_Scanner.py -u https://example.com --stealth -w custom_wordlist.txt -o scan_results.json
+```
+
+
