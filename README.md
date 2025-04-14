@@ -35,5 +35,5 @@ A powerful web vulnerability scanner with stealth capabilities for comprehensive
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/golden-scanner.git
-cd golden-scanner
+git clone https://github.com/yourusername/Web_Researcher.git
+cd Web_Researcher
